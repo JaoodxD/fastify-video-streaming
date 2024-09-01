@@ -1,0 +1,21 @@
+{
+  "name": "fastify-video-streaming",
+  "version": "1.0.0",
+  "description": "backend.cafe how-to",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maksym Shenderuk <jaood96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "fastify-favicon": "^4.3.0",
+    "fastify-range": "^1.0.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^11.2.2"
+  }
+}
